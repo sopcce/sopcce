@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋 
+## :pineapple: :apple: Welcome to sopcce Github  :apple: :pineapple:
+- 🔭 I’m currently working on  C Sharp、.NET 、Vue
+- :house: I'm living in China,Beijing.
+- 🌱 I’m currently learning CQRS、Abp、Vue
+- :star: I'm interested in Domain-Driven Design, CQRS, Event Source, Design Pattern
+- 👯 I'm a passionate software developer. 5 years working experience
+- 💬 Ask me about :I'm a run noob ,don’t ask me
+- 📫 How to reach me: sopcce@qq.com、sopcce@hotmail.com
+- :notebook: https://www.cnblogs.com/sopcce
+ 
 
-<!--
-**Sopcce/sopcce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sopcce&show_icons=true)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sopcce)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
