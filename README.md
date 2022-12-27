@@ -1,6 +1,6 @@
 ## Hi there 👋 
 ## :pineapple: :apple: Welcome to sopcce Github  :apple: :pineapple:
-- 🔭 I’m currently working on  C Sharp、.NET 、Vue
+- 🔭 I’m currently working on Java、 C Sharp、.NET 、Vue
 - :house: I'm living in China,Beijing.
 - 🌱 I’m currently learning CQRS、DDD、Vue
 - :star: I'm interested in Domain-Driven Design, CQRS, Event Source, Design Pattern
